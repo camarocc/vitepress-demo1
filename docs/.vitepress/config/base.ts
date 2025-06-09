@@ -5,7 +5,7 @@ import { searchFun } from './lang'
 // 通用基础配置
 export const baseConfig = defineConfig({
     // 网站根路径
-    base: "/",
+    base: "/vitepress-demo1/",
     // 网站标题
     title: 'KamiDoc',
     // 重写默认语言的路径
