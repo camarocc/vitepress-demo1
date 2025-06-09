@@ -1,0 +1,27 @@
+export default {
+     title:'title',
+     hello: '你好',
+     help:'help',
+     blog:'blog',
+     prev:'prev',
+     next:'next',
+
+     serachTxt:'Search111',
+     resetSerach:'Clear query',
+     recentSearchesTitle:'Search History',
+      noRecentSearchesText: 'No search history',
+     saveRecentSearchButtonTitle: 'Save to search history',
+     removeRecentSearchButtonTitle: 'Remove from search history',
+     favoriteSearchesTitle: 'Favorites',
+     removeFavoriteSearchButtonTitle: 'Remove from favorites',
+     titleText: 'Unable to get results',
+     helpText: 'You may need to check your network connection',
+     selectText: 'Select',
+     navigateText: 'Navigate',
+     closeText: 'Close',
+     searchByText: 'Search Provider',
+     noResultsText: 'No relevant results found',
+     suggestedQueryText: 'You can try searching',
+     reportMissingResultsText: 'Do you think there should be results for this query?',
+     reportMissingResultsLinkText: 'Click to give feedback'
+}
