@@ -16,7 +16,8 @@ function sidebarHelp($t){
             items: [
                 { text: '目录结构', link: '目录结构' },
                 { text: '启动', link: '启动' },
-                { text: '部署', link: '部署' }
+                { text: '部署', link: '部署' },
+                { text: 'test', link: 'test' },
             ]
         }
     ]

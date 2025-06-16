@@ -13,5 +13,6 @@ export default defineConfig({
     root: { label: '简体中文', ...langFun('zh') },
     en: { label: 'English', ...langFun('en') },
     xx: { label: 'xxlau', ...langFun('xx') },
+    aa: { label: 'aaa', ...langFun('xx') },
   }
 })
