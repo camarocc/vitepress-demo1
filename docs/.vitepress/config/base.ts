@@ -7,7 +7,7 @@ export const baseConfig = defineConfig({
     // 网站根路径
     base: "/vitepress-demo1/",
     // 网站标题
-    title: 'KamiDoc',
+    title: '帮助文档',
     // 重写默认语言的路径
     rewrites: {
         'zh/:rest*': ':rest*'
